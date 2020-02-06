@@ -12,11 +12,11 @@ In today's project, you'll be asked to write code to make live Ajax requests, an
 
 ## Hints
 
-Since there are no starter files provided, you'll need to create your own HTML, CSS, and JavaScript files and link them together properly.
+<!-- Since there are no starter files provided, you'll need to create your own HTML, CSS, and JavaScript files and link them together properly. -->
 
-Before you start writing any JavaScript, we suggest you spend a few moments reading through the [Star Wars API docs](https://swapi.co/documentation) to get familiar with how you can obtain the data.
+<!-- Before you start writing any JavaScript, we suggest you spend a few moments reading through the [Star Wars API docs](https://swapi.co/documentation) to get familiar with how you can obtain the data. -->
 
-You can use your browser or [Insomnia](https://insomnia.rest) to try out requests to get your data from the API.
+<!-- You can use your browser or [Insomnia](https://insomnia.rest) to try out requests to get your data from the API. -->
 
 Once you have a decent grasp on that, start setting up your Ajax calls and your callback functions to work with the data you retrieve.
 
